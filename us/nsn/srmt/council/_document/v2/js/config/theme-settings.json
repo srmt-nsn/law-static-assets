@@ -1,5 +1,5 @@
 {
-  "clientVersion": "2.65.1",
+  "clientVersion": "2.68.2",
   "themeVersion": "v2",
   "themeType": "custom",
   "themeName": "custom",
@@ -13,10 +13,11 @@
       "srcset": []
     },
     "header": {
-      "image": "/images/logo/logo.png",
+      "image": "/images/logo/srmt-logo.png",
       "srcset": [
-        "/images/logo/logo.png 1x",
-        "/images/logo/logo@2x.png 2x"
+        "/images/logo/srmt-logo.png 1x",
+        "/images/logo/srmt-logo@2x.png 2x",
+        "/images/logo/srmt-logo@3x.png 3x"
       ]
     },
     "footer": {
@@ -26,8 +27,8 @@
   },
   "fonts": [
     "/biticons/biticons.css",
-    "/fonts/ananda/ananda.css",
-    "/fonts/roboto-condensed/roboto-condensed.css"
+    "/fonts/open-sans/open-sans.css",
+    "/fonts/open-sans-condensed/open-sans-condensed.css"
   ],
   "contact": {
     "email": "help@openlawlib.org"
@@ -35,7 +36,7 @@
   "reader": {
     "rootUrl": "/",
     "themeVariation": {
-      "header": "hv1",
+      "header": "hv3",
       "footer": "fv1"
     }
   }
